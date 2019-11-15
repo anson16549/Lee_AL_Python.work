@@ -1,4 +1,4 @@
-# Rock Paper Scissors in Python!
+# Rock Paper Scissors in Python.
 
 Pick your weapon and play against the computer - you'll only get a virtual sting if you lose!
 
@@ -17,4 +17,4 @@ The computer chooses first; just follow the prompts.
 
 Built with Python 3.
 
-## Author Name: Anson Lee
+## Author: Anson Lee
